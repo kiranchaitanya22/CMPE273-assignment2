@@ -1,0 +1,8 @@
+
+{   
+	"httpMethod": "POST",
+    "menu_id": "2",
+    "order_id": "1",
+    "customer_name": "John Smith",
+    "customer_email": "foobar@gmail.com"
+}
